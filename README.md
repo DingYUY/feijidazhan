@@ -96,3 +96,5 @@ void adapter(Canvas c) {
                 id++;
             }
     }
+    
+(4)
