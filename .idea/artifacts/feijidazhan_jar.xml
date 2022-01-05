@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="feijidazhan:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/feijidazhan_jar</output-path>
+    <root id="archive" name="feijidazhan.jar">
+      <element id="module-output" name="feijidazhan" />
+    </root>
+  </artifact>
+</component>
